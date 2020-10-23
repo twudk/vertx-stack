@@ -69,7 +69,7 @@
     <module>stack-depchain</module>
     <module>stack-manager</module>
     <module>stack-docker</module>
-    <module>stack-docs</module>
+<!--    <module>stack-docs</module>-->
     <module>stack-npm</module>
   </modules>
 

@@ -1,6 +1,6 @@
 # A base Dockerfile for Vert.x 3
 
-FROM openjdk:8u171-jre
+FROM openjdk:11.0.9-jre
 
 MAINTAINER Clement Escoffier <clement@apache.org>
 

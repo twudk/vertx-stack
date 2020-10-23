@@ -18,7 +18,7 @@
 
   <properties>
     <asciidoc.dir>${project.basedir}/src/main/asciidoc</asciidoc.dir>
-    <docker.domain>vertx</docker.domain>
+    <docker.domain>tawu04</docker.domain>
   </properties>
 
   <dependencies>
